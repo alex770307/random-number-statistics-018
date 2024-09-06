@@ -1,0 +1,18 @@
+1) Create a new project and create a text file in it.
+2) Come up with an algorithm that writes 100 random numbers to the file.
+3) Come up with an algorithm that reads the entire file and calculates:
+    3.1) The sum of all the numbers.
+    3.2) The largest and smallest number.
+    3.3) How many numbers are divisible by 2.
+4) How many numbers are greater than the neighbor to the left ("before them")
+and smaller than the neighbor to the right ("after them").
+    - Try to do at least a little in an OOP style.
+
+1) Создайте новый проект и создайте в нем текстовый файл.
+2) Придумать алгоритм, который бы записал в файл 100 случайных чисел.
+3) Придумать алгоритм, который бы прочитал весь файл и вычислил бы:
+    3.1) Сумму всех чисел.
+    3.2) Самое больше и самое маленькое число.
+    3.3) Сколько чисел делятся на 2.
+4) Сколько чисел больше соседа слева ("до них") и меньше соседа справа ("после них").
+    - Попробовать сделать хоть немного в стиле ООП.
